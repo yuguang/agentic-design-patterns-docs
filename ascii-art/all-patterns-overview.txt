@@ -13,10 +13,11 @@
 └─────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────┐
-│                      ADVANCED PATTERNS                           │
+│                      ADVANCED PATTERNS                          │
 ├─────────────────────────────────────────────────────────────────┤
-│ 6. PLANNING:           Goal → Milestones → Execute → Monitor    │
-│ 7. MULTI-AGENT:        Coordinator → [A1|A2|A3|A4] → Output    │
+│ 6. PLANNING:           Goal → Milestones → Execute → Track      │ 
+│                       Progress -> Analyze Blocker -> Adjust Plan│
+│ 7. MULTI-AGENT:        Coordinator → [A1|A2|A3|A4] → Output     │
 │ 8. MEMORY:             Input → Classify → Store → Retrieve      │
 │ 9. LEARNING:           Feedback → Learn → Test → Deploy         │
 │ 10. MCP:               Registry → Discover → Authorize → Call   │
