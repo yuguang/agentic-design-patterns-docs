@@ -25,7 +25,7 @@ graph TD
     
     Output2 --> Counter{Iteration Count}
     Counter -->|< Max| Critic
-    Counter -->|>= Max| Converge[Use Best Version]
+    Counter -->| >= Max| Converge[Use Best Version]
     
     Accept --> Record[Record Success Patterns]
     Converge --> Record
